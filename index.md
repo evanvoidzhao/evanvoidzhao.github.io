@@ -14,9 +14,9 @@ TODO
 - [ ] lab 仓库地址 [https://github.com/evanvoidzhao/6.824](https://github.com/evanvoidzhao/6.824)
 
 ---
-### DDIA Designing Data-Intensive Application
+### 书籍
 TODO
-- [ ] 首次阅读
+- [ ] DDIA 《Designing Data-Intensive Application》《数据密集型应用系统设计》
 
 ---
 ### LevelDB
