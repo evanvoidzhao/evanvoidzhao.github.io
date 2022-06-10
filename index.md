@@ -41,7 +41,7 @@ TODO
 ---
 
 ### 资料收藏
-一个仅供参考的CS学习规划 [一个仅供参考的CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+- 一个仅供参考的CS学习规划 [一个仅供参考的CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
 ---
 
