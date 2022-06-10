@@ -6,12 +6,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## ***文档***
 
-### MIT 6.824: Distributed Systems
+### 课程学习
+#### MIT 6.824: Distributed Systems
 课程链接 [MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 TODO
 - [x] lecture 视频链接 [MIT 6.824]()
 - [ ] lab 仓库地址 [https://github.com/evanvoidzhao/6.824](https://github.com/evanvoidzhao/6.824)
+
+#### MIT 6.s081 操作系统
+课程链接 [MIT 6.s081](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+
+#### UCB CS186: Introduction to Database System
+课程链接 [UCB CS186](https://cs186berkeley.net/sp21/)
+
+#### Stanford CS143: Compilers
+课程链接 [Stanford CS143](http://web.stanford.edu/class/cs143/)
+
+#### Stanford CS144: Computer Network
+课程链接 [Stanford CS144](https://cs144.github.io/)
 
 ---
 ### 书籍
@@ -25,6 +38,11 @@ TODO
 TODO
 - [ ] LevelDB 完全解析 [LevelDB 完全解析](https://www.zhihu.com/column/c_1258068131073183744)
   
+---
+
+### 资料收藏
+一个仅供参考的CS学习规划 [一个仅供参考的CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+
 ---
 
 ### 论文链接
