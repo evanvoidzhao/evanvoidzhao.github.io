@@ -30,6 +30,7 @@ TODO
 ### 书籍
 TODO
 - [ ] DDIA 《Designing Data-Intensive Application》《数据密集型应用系统设计》
+  [在线翻译版](https://github.com/Vonng/ddia) 
 
 ---
 ### LevelDB
