@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 TODO
 - [x] lecture 视频链接 [MIT 6.824]()
-- [ ] lab 仓库地址 [https://github.com/evanvoidzhao/6.824](https://github.com/evanvoidzhao/6.824)
+- [x] lab 仓库地址 [https://github.com/evanvoidzhao/6.824](https://github.com/evanvoidzhao/6.824)
 
 #### MIT 6.s081 操作系统
 课程链接 [MIT 6.s081](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
