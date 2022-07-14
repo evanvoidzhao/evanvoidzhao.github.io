@@ -20,6 +20,13 @@ TODO
 #### UCB CS186: Introduction to Database System
 课程链接 [UCB CS186](https://cs186berkeley.net/sp21/)
 
+#### MIT 6.830: Database system
+课程链接 [http://db.lcs.mit.edu/6.830/sched.php](http://db.lcs.mit.edu/6.830/sched.php)
+
+TODO
+- [ ] lecture 视频链接[]()
+- [ ] lab 仓库地址 [https://github.com/evanvoidzhao/simple-db-hw-2021](https://github.com/evanvoidzhao/simple-db-hw-2021)
+  
 #### Stanford CS143: Compilers
 课程链接 [Stanford CS143](http://web.stanford.edu/class/cs143/)
 
