@@ -36,13 +36,14 @@ TODO
 ---
 ### 书籍
 TODO
-- [ ] DDIA 《Designing Data-Intensive Application》《数据密集型应用系统设计》
+- [x] DDIA 《Designing Data-Intensive Application》《数据密集型应用系统设计》
   [在线翻译版](https://github.com/Vonng/ddia) 
   [gitbook版本](https://vonng.gitbooks.io/ddia-cn/content/)
 
 ---
 ### Flink
 - Apache Flink 知其然，知其所以然[https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
+- Stream System[https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf](https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
 
 ---
 
