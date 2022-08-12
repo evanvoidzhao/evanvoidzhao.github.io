@@ -24,7 +24,7 @@ TODO
 课程链接 [http://db.lcs.mit.edu/6.830](http://db.lcs.mit.edu/6.830)
 
 TODO
-- [ ] lecture 视频链接[https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
+- [ ] lecture 视频链接 [https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
 - [ ] lab 仓库地址 [https://github.com/evanvoidzhao/simple-db-hw-2021](https://github.com/evanvoidzhao/simple-db-hw-2021)
   
 #### Stanford CS143: Compilers
@@ -42,8 +42,8 @@ TODO
 
 ---
 ### Flink
-- Apache Flink 知其然，知其所以然[https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
-- Stream System[https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf](https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
+- Apache Flink 知其然，知其所以然 [https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1yk4y1z7Lr?p=57&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
+- Stream System [https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf](https://evanvoidzhao.github.io/Streaming%20Systems%20-%20Tyler%20Akidau.pdf)
 
 ---
 
