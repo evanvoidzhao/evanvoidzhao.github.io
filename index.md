@@ -64,7 +64,7 @@ Materialize [https://materialize.io/](https://materialize.io/)
 
 ### 资料收藏
 - 一个仅供参考的CS学习规划 [一个仅供参考的CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/) [github链接](https://github.com/pkuflyingpig/cs-self-learning/)
-- 知行学社——paxos和分布式系统[https://www.bilibili.com/video/BV1Lt411m7cW?vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1Lt411m7cW?vd_source=e9706d88939abfc78743a1acf0d0ba6d)
+- 知行学社——paxos和分布式系统 [https://www.bilibili.com/video/BV1Lt411m7cW?vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1Lt411m7cW?vd_source=e9706d88939abfc78743a1acf0d0ba6d)
 
 ---
 
