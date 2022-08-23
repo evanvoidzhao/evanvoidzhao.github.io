@@ -60,6 +60,8 @@ RisingWave [https://www.risingwave.dev/](https://www.risingwave.dev/)
 
 Materialize [https://materialize.io/](https://materialize.io/)
 
+相关资料 [https://timelydataflow.github.io/differential-dataflow/](https://timelydataflow.github.io/differential-dataflow/)
+
 ---
 
 ### 资料收藏
