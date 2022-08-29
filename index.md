@@ -60,7 +60,9 @@ RisingWave [https://www.risingwave.dev/](https://www.risingwave.dev/)
 
 Materialize [https://materialize.io/](https://materialize.io/)
 
-相关资料 [https://timelydataflow.github.io/differential-dataflow/](https://timelydataflow.github.io/differential-dataflow/)
+相关资料 
+- [https://timelydataflow.github.io/differential-dataflow/](https://timelydataflow.github.io/differential-dataflow/)
+- [https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/naiad_sosp2013.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/11/naiad_sosp2013.pdf)
 
 ---
 
