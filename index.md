@@ -53,6 +53,8 @@ TODO
 TODO
 - [ ] LevelDB 完全解析 [LevelDB 完全解析](https://www.zhihu.com/column/c_1258068131073183744)
   
+AWS dynamo论文 [https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store)
+
 ---
 
 ### 流数据库
