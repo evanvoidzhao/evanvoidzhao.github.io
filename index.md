@@ -23,9 +23,6 @@ TODO
 #### MIT 6.830: Database system
 课程链接 [http://db.lcs.mit.edu/6.830](http://db.lcs.mit.edu/6.830)
 
-#### 区块链技术与应用 
-课程链接 [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.337.search-card.all.click)
-
 TODO
 - [ ] lecture 视频链接 [https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d](https://www.bilibili.com/video/BV1fZ4y1e7ZJ?spm_id_from=333.337.search-card.all.click&vd_source=e9706d88939abfc78743a1acf0d0ba6d)
 - [ ] lab 仓库地址 [https://github.com/evanvoidzhao/simple-db-hw-2021](https://github.com/evanvoidzhao/simple-db-hw-2021)
@@ -35,6 +32,9 @@ TODO
 
 #### Stanford CS144: Computer Network
 课程链接 [Stanford CS144](https://cs144.github.io/)
+
+#### 区块链技术与应用 
+课程链接 [区块链技术与应用](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.337.search-card.all.click)
 
 ---
 ### 书籍
